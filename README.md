@@ -12,7 +12,7 @@
 <details>
   <summary>:octocat: More about me</summary>
   <br/>
-  Nothing important to be seen. Just the data in the repo, I'm not that important.
+  Nothing important to be said. Just the data in the repo.
   <br/>
   <br/>
   
@@ -25,7 +25,7 @@
 
 Actually, there's something to see. Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ)
 
-I'll be seeing you soon! :rocket::rocket::rocket:
+We'll catch up later! :rocket::rocket::rocket:
 
 <!-- Felix links -->
 
