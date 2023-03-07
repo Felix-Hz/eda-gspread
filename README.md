@@ -23,9 +23,9 @@
 
 </details>
 
-I'll be seeing you soon! :rocket::rocket::rocket:
+Actually, there's something to see. Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ)
 
-Actually, there's something to see. Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ) :bowtie:
+I'll be seeing you soon! :rocket::rocket::rocket:
 
 <!-- Felix links -->
 
