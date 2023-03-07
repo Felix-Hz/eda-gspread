@@ -14,14 +14,15 @@
   Nothing important to be said. Just the data in the repo.
   <br/>
   <br/>
-[<img align="left" alt="LinkedIn Félix" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedinfelix]
-[<img align="left" alt="GitHub logo" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>][githubfelix]
+
+  [<img align="left" alt="LinkedIn Félix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedinfelix]
+  [<img align="left" alt="GitHub logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][githubfelix]
 
   <br/>
 </details>
 
 ### Wait... Did I mention that we'll also have a special guest appearance? :scream:
-Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ) Don't worry, it's not a rickroll, I promise! :smirk:
+Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ) Don't worry, it's not a rickroll! :smirk:
 
 That's all for now folks! :nerd_face:
 
