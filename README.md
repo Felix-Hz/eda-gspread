@@ -12,7 +12,7 @@
 <details>
   <summary>:octocat: More about me</summary>
   <br/>
-  Nothing important to be seen. Just the data in the repo, I'm not that important. But... You if you're curious... Just [click here.](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+  Nothing important to be seen. Just the data in the repo, I'm not that important. But... You if you're curious... Just [click here.](https://youtube.com/watch?v=dQw4w9WgXcQ) 
   <br/>
   <br/>
   
