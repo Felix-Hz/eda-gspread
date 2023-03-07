@@ -2,9 +2,9 @@
 
 <br/>
 
-:rocket: Exploratory data analysis to find interesting price insights
-🖥️ Data wrangling using Pandas, Numpy and all of Python's features!
-:zap: Exporting the data to a Google Sheets with the help of gspread
+- :rocket: Exploratory data analysis to find interesting price insights
+- 🖥️ Data wrangling using Pandas, Numpy and all of Python's features!
+- :zap: Exporting the data to a Google Sheets with the help of gspread
 
 <br/>
 
