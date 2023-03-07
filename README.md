@@ -20,8 +20,8 @@
   <br/>
 </details>
 
-### Wait... Did I mention that we'll also have a special guest appearance? :scream: :notes: 
-Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ). Don't worry, it's not a rickroll, I promise! :smirk:
+### Wait... Did I mention that we'll also have a special guest appearance? :scream:
+Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ) Don't worry, it's not a rickroll, I promise! :smirk:
 
 That's all for now folks! :nerd_face:
 
