@@ -12,7 +12,7 @@
 <details>
   <summary>:octocat: More about me</summary>
   <br/>
-  Nothing important to be seen. Just the data in the repo, I'm not that important. But... You if you're curious... Just [click.](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+  Nothing important to be seen. Just the data in the repo, I'm not that important. But... You if you're curious... Just [click.] 
   <br/>
   <br/>
   
@@ -29,3 +29,4 @@ I'll be seeing you soon! :rocket::rocket::rocket:
 
 [linkedinfelix]: https://linkedin.com/in/felix-hernandez-vieyra
 [githubfelix]: https://github.com/Felix-Hz
+[click.]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
