@@ -20,6 +20,10 @@
   <br/>
 </details>
 
-Wait, did I mention that we'll also have a special guest appearance from Rick Astley? :scream: :notes: Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ). Don't worry, it's not a rickroll, I promise! :smirk:
+### Wait... Did I mention that we'll also have a special guest appearance? :scream: :notes: 
+Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ). Don't worry, it's not a rickroll, I promise! :smirk:
 
-That's all for now folks! Keep calm and code on! :keyboard: :computer: :nerd_face:
+That's all for now folks! :nerd_face:
+
+[linkedinfelix]: https://linkedin.com/in/felix-hernandez-vieyra
+[githubfelix]: https://github.com/Felix-Hz
