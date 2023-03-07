@@ -1,9 +1,13 @@
-<strong>Data Analysis & Google's API</strong> :bar_chart: :chart_with_upwards_trend: :moneybag:
+## <strong>Data Analysis & Google's API</strong> :bar_chart: :chart_with_upwards_trend: :moneybag:
+
 <br/>
+
 :rocket: Exploratory data analysis to find interesting price insights
 🖥️ Data wrangling using Pandas, Numpy and all of Python's features!
 :zap: Exporting the data to a Google Sheets with the help of gspread
+
 <br/>
+
 <details>
   <summary>:octocat: More about me</summary>
   <br/>
@@ -15,6 +19,7 @@
 
   <br/>
 </details>
-Wait, did I mention that we'll also have a special guest appearance from Rick Astley? :scream: :notes: Click here. Don't worry, it's not a rickroll, I promise! :smirk:
+
+Wait, did I mention that we'll also have a special guest appearance from Rick Astley? :scream: :notes: Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ). Don't worry, it's not a rickroll, I promise! :smirk:
 
 That's all for now folks! Keep calm and code on! :keyboard: :computer: :nerd_face:
