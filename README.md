@@ -23,8 +23,6 @@
 
 Wait... Did I mention that we'll also have a special guest appearance? :scream:
 
-<br/>  
-  
 Click [here.](https://youtube.com/watch?v=dQw4w9WgXcQ) Don't worry, it's not a rickroll! :smirk:
 
 That's all for now folks! :nerd_face:
